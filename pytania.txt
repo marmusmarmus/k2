@@ -12,4 +12,4 @@ Zmienna 'stala' miala wartosc: 2.7182818 (liczba e?)
 
 ad.2 
 Drugie pytanie zostalo dodane przez uzytkownika hello1
-git log
+git blade
